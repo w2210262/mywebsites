@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+	body {
+		background-color:#B6C3D3;
+	}
+
+	#wrapper {
+		width:1200px;
+		margin-top:30px;
+		margin-right:auto;
+		margin-left:auto;
+	}
+	
+	header {
+		
+		font-family:Georgia;
+		color:#2F3D5E;
+		letter-spacing:5px;
+		text-align:center;
+	}
+	
+	#main {
+		
+		float:right;
+		width:60%;
+		
+		font-family:Verdana;
+		color:#403D54;
+		font-size:14px;
+		line-height: 22px;
+	}
+	
+	#sidebar {
+		
+		float:left;
+		width:20%;
+		
+		font-family:Verdana;
+		color:#403D54;
+		font-size:14px;
+		line-height:22px;
+		text-align:center;
+	}
+	
+	footer {
+		
+		clear:both;
+		
+		font-family:Verdana;
+		font-size:11px;
+		color:#FFFFFF;
+		text-align:center;
+	}
+	
